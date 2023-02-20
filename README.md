@@ -52,8 +52,8 @@ The process of visualizing the output of each layer by considering a test image 
 The early layers in a neural network tend to capture and preserve the basic features of the input image, and are generally more easy to interpret. As the layers become deeper, the features extracted become more abstract and class-specific, focusing less on general features of the image.
 
 ## Reference
-https://keras.io/api/models/model/
-https://www.kaggle.com/c/dogs-vs-cats
-https://www.geeksforgeeks.org/introduction-convolution-neural-network/
-https://www.tensorflow.org/guide/data_performance
-https://www.geeksforgeeks.org/visualizing-representations-of-outputs-activations-of-each-cnn-layer/
+- https://keras.io/api/models/model/
+- https://www.kaggle.com/c/dogs-vs-cats
+- https://www.geeksforgeeks.org/introduction-convolution-neural-network/
+- https://www.tensorflow.org/guide/data_performance
+- https://www.geeksforgeeks.org/visualizing-representations-of-outputs-activations-of-each-cnn-layer/
